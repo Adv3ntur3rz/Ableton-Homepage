@@ -1,5 +1,5 @@
 
-![screenshot]()
+![screenshot](https://github.com/Adv3ntur3rz/Ableton-Homepage/blob/main/ss/final_1.jpg)
 # Ableton Homepage
  An interactive homepage concept for Ableton written in p5.js
 
